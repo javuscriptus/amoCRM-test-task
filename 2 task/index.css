@@ -1,0 +1,311 @@
+.bg-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 320px;
+  height: 445px;
+  overflow: hidden;
+}
+.span {
+  font-weight: 500;
+}
+.b {
+  background: linear-gradient(90deg, #fcb045 36.99%, #fd1d1d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.div,
+.div1 {
+  position: absolute;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+}
+.div {
+  top: 276px;
+  left: 15px;
+  width: 272px;
+  font-family: var(--font);
+}
+.div1 {
+  top: 187px;
+  left: 14px;
+  width: 271px;
+}
+.p {
+  margin: 0;
+}
+.div2,
+.welbex {
+  position: absolute;
+  top: 40px;
+  left: 14px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font);
+}
+.welbex {
+  top: 128px;
+  left: 15px;
+  font-weight: 900;
+  background: linear-gradient(92deg, #fcb045 24.21%, #ff3f78), #e4e5ea;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.frame-child {
+  top: 8px;
+  left: 0;
+  width: 10px;
+  height: 0;
+}
+.frame-child,
+.parent,
+.skype {
+  position: absolute;
+}
+.parent {
+  top: 340px;
+  left: 140px;
+  width: 122px;
+  height: 16px;
+}
+.skype {
+  top: 0;
+  left: 15px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+.skype-parent {
+  position: absolute;
+  top: 340px;
+  left: 16px;
+  width: 114px;
+  height: 16px;
+}
+.dashboard-parent,
+.main-screen,
+.mocrm-parent {
+  position: absolute;
+  top: 370px;
+  left: 16px;
+  width: 109px;
+  height: 16px;
+}
+.main-screen,
+.mocrm-parent {
+  left: 140px;
+  width: 141px;
+}
+.main-screen {
+  top: 55px;
+  left: 0;
+  width: 320px;
+  height: 451px;
+  font-family: var(--font-montserrat);
+}
+.header-top-icon {
+  top: 0;
+  left: 16px;
+  width: 288px;
+  height: 24px;
+}
+.b1,
+.div4,
+.header-top-icon {
+  position: absolute;
+}
+.b1 {
+  top: 45px;
+  left: 1px;
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--dark-gray);
+}
+.div4 {
+  top: 80px;
+  left: 0;
+}
+.div5 {
+  top: 107px;
+  left: 0;
+}
+.b2,
+.div5,
+.div6 {
+  position: absolute;
+}
+.b2 {
+  top: 154px;
+  left: 1px;
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--dark-gray);
+}
+.div6 {
+  top: 189px;
+  left: 0;
+  display: inline-block;
+  width: 75px;
+}
+.div7,
+.div8,
+.youtube {
+  position: absolute;
+  top: 287px;
+  left: 148px;
+}
+.div7,
+.div8 {
+  top: 233px;
+  left: 0;
+}
+.div8 {
+  top: 314px;
+  left: 148px;
+}
+.div9 {
+  top: 457px;
+  left: 0;
+}
+.b3,
+.div10,
+.div9 {
+  position: absolute;
+}
+.div10 {
+  top: 396px;
+  left: 0;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+}
+.b3 {
+  top: 361px;
+  left: 1px;
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--dark-gray);
+}
+.whatsapp-icon {
+  left: 69px;
+  overflow: hidden;
+}
+.telegram-icon,
+.viber-icon,
+.whatsapp-icon {
+  position: absolute;
+  top: 423px;
+  width: 24px;
+  height: 24px;
+}
+.telegram-icon {
+  left: 1px;
+  overflow: hidden;
+}
+.viber-icon {
+  left: 35px;
+}
+.div11,
+.welbex-2022 {
+  position: absolute;
+  top: 524px;
+  left: 0;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-montserrat);
+}
+.div11 {
+  top: 544px;
+  text-decoration: underline;
+}
+.div12,
+.div13,
+.div14,
+.div15 {
+  position: absolute;
+  top: 260px;
+  left: 0;
+}
+.div13,
+.div14,
+.div15 {
+  top: 287px;
+}
+.div14,
+.div15 {
+  top: 314px;
+}
+.div15 {
+  top: 233px;
+  left: 148px;
+}
+.div16 {
+  top: 189px;
+  left: 148px;
+  display: inline-block;
+  width: 123px;
+}
+.div16,
+.div17,
+.footer {
+  position: absolute;
+}
+.div17 {
+  top: 260px;
+  left: 148px;
+}
+.footer {
+  bottom: 60px;
+  left: 15px;
+  width: 289px;
+  height: 559px;
+  font-size: var(--font-size);
+}
+.fix-header-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--black);
+  width: 320px;
+  height: 55px;
+}
+.div18,
+.div19,
+.div20,
+.div21 {
+  position: absolute;
+  top: 20px;
+  left: 81px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.div19,
+.div20,
+.div21 {
+  left: 161px;
+}
+.div20,
+.div21 {
+  left: 260px;
+}
+.div21 {
+  left: 16px;
+}
+.fix-header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 320px;
+  height: 55px;
+  font-size: var(--font-size-xs);
+}
+.mobile {
+  position: relative;
+  background-color: var(--black);
+  width: 100%;
+  height: 1115px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--light-text);
+  font-family: var(--font);
+}

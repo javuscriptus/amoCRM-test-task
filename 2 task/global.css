@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font: Inter;
+  --font-montserrat: Montserrat;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size: 14px;
+  --font-size-base: 16px;
+  --font-size-smi: 13px;
+  --font-size-17xl: 36px;
+  --font-size-lg: 18px;
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --black: #0e1014;
+  --light-text: #e4e5ea;
+  --dark-gray: #656566;
+}

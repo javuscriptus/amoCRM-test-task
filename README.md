@@ -11,9 +11,7 @@
 >Шаг анимации таймера 1 секунда.
 >Форматирование таймера “hh:mm:ss”.
 >Например 01:12:59 - один час, 12 минут, 59 секунд.
-
-Для решения второй задачи я решил не показывать свой опыт верстки, а предпочел использовать новейшие технология для решения задачи. z
-
+---
 ## Задание 2
 
 > Сверстайте страницу по макету.
@@ -54,7 +52,7 @@ In solving the first problem, I decided to use various techniques that I have ma
 >For example, 01:12:59 is one hour, 12 minutes, 59 seconds.
 
 To solve the second problem, I decided not to show my layout experience, but preferred to use the latest technology to solve the problem. z
-
+---
 ## Task 2
 
 > Layout the page according to the layout.
